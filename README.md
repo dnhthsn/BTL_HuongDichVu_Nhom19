@@ -12,4 +12,8 @@
 - Chạy chương trình:
   + B1: Start discovery server
   + B2: Start các service: Task service, Utility Service, Entity Service
-  + B3: Chạy trên cổng 8761 để thấy các dịch vụ đang chạy
+  + B3: Chạy trên cổng 8761 để thấy các dịch vụ đang chạy 
+        + http://localhost:8761/
+  + B4: Chạy Client trên cổng 8086
+        + http://localhost:8086/newDK
+  + B5: Thực hiện đăng ký khám
